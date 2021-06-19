@@ -9,6 +9,5 @@ Services: É responsável pela lógica de negócio, orquestra chamadas ao banco 
 Repository: É responsável pelo acesso ao banco de dados;
 DTO: Data Transfer Object é a representação do dado trafegado, comumente é utilizado para representar o Json do request e response;
 Entity: É a representação da tabela no banco de dados;
-![image](https://user-images.githubusercontent.com/77901292/122654791-25e93380-d124-11eb-8f68-31533e607a81.png)
 
 
